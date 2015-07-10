@@ -2,7 +2,7 @@
 title: Frank Child's blog
 email: frankgt40@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- I've been told to write an awsome description for my blog website, so Google will display a better result for ones who are looking for me. However, it is not that nesscary, because it is harder to advertise oneself on the search engines.	    
+ I've been told to write an awsome description for my blog website, so Google will display a better result for ones who are looking for me. However, it is not that nesscary, because it is getting harder to advertise oneself on the search engines.	    
 baseurl: "/frank_blog" # the subpath of your site, e.g. /blog/
 url: "https://frankgt40.github.io" # the base hostname & protocol for your site
 twitter_username: frankgt40
